@@ -49,7 +49,9 @@ const apiTracker = (data) => {
                         }
                     ]
                 },
-                detail
+                detail: {
+                    data: detail
+                }
             }
         })
     })
