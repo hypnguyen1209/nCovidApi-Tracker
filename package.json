@@ -1,13 +1,13 @@
 {
   "name": "nCovidApi-Tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scraping infomation about nCovid on website https://ncov.moh.gov.vn",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "hypnguyen1209",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
